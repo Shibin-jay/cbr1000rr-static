@@ -1,0 +1,16 @@
+.backgrnd1{
+    background-image: url("https://c0.wallpaperflare.com/preview/485/402/547/sportbike-sportsbike-honda-honda-cbr-1000-rr.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bac1{
+    background-image: url("2563566.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+.heading{
+    font-weight: bold;
+    font-size:2em;
+    color: rgb(248, 14, 14);
+}
